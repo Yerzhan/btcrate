@@ -1,0 +1,28 @@
+{
+  "name": "btcrate",
+  "version": "1.0.0",
+  "description": "Bitcoin price rate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yerzhan/btcrate.git"
+  },
+  "keywords": [
+    "React",
+    "Next.js"
+  ],
+  "author": "Yerzhan Sarbassov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yerzhan/btcrate/issues"
+  },
+  "homepage": "https://github.com/Yerzhan/btcrate#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
